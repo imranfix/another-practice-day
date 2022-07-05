@@ -1,0 +1,100 @@
+*{
+    margin: auto;
+}
+
+p{
+    color: white;
+}
+
+.menubar{
+
+    display: flex;
+
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    border-top: 20px;
+    padding: 30px 5px;
+}
+.font-big{
+    font-size: 70px;
+    color: white;
+}
+
+.menu-section{
+
+    display: flex;
+    color: white;
+ 
+}
+.list{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 40px;
+
+}
+
+.menu-item{
+
+    text-decoration: none;
+}
+
+.banner-section{
+
+    
+    padding-left: 30px;
+    display: flex;
+    background-color: black;
+
+}
+
+.color-red{
+    color: red;
+    font-size: 24px;
+}
+
+.button-btn{
+
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    
+    
+
+}
+.black-color{
+    color: black;
+}
+
+.typewrite{
+
+    display: flex;
+    margin-top: 70px;
+}
+
+.box-shadow{
+
+    box-shadow: 20px 10px 40px gray;
+    height: 500px;
+    text-align: justify;
+    width: 700px;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.small-pic{
+
+    width: 70px;
+    padding-left: 220px;
+}
